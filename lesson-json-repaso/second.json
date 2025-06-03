@@ -1,0 +1,16 @@
+[
+    {
+    "id": "0",
+    "name": "Pepita",
+    "active" : false,
+    "skills" : [1,2,3,4,5],
+    "address": {}
+    }, 
+    {
+    "id": "0",
+    "name": "Pepita",
+    "active" : false,
+    "skills" : [1,2,3,4,5],
+    "address": {}
+    }
+]
